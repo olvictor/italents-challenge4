@@ -1,0 +1,21 @@
+.inputBox{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 100%;
+}
+
+.inputBox input{
+   background-color: #D3D3D3;
+   outline: none;
+   border: none;
+   height: 1.5rem;
+   border-radius: 5px;
+   color: black;
+   padding-left: 6px;
+   font-weight: bolder;
+}
+
+.inputBox input:focus{
+    border: 2px solid #4e54c8;
+}

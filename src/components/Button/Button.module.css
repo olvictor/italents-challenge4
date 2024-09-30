@@ -1,0 +1,13 @@
+.buttonForm{
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    width: 40%;
+    cursor: pointer;
+    background-color: #4e54c8;
+    font-weight: bolder;
+}
+
+.buttonForm:hover{
+    opacity: .8;
+}

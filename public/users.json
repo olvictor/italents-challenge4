@@ -1,0 +1,19 @@
+{
+  "dados": [
+    {
+      "id": "2556",
+      "email": "aaa@aa.com",
+      "senha": "bbb"
+    },
+    {
+      "id": "cfb7",
+      "email": "dasdas@a.com",
+      "senha": "aaaa"
+    },
+    {
+      "id": "8c77",
+      "email": "dasdas@ab.com",
+      "senha": "aaaa"
+    }
+  ]
+}
