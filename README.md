@@ -7,7 +7,7 @@ Certifique-se de que você tem as seguintes ferramentas instaladas em sua máqui
 
 - [Node.js](https://nodejs.org/)
 - [Git](https://git-scm.com/)
-- [json-server]
+- [json-server](https://www.npmjs.com/package/json-server)
 
 ## Como rodar o projeto localmente
 
@@ -16,7 +16,7 @@ Siga estas etapas para configurar e rodar o projeto em seu ambiente local.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/olvictor/italents-challenge2.git
+git clone https://github.com/olvictor/italents-challenge4.git
 ```
 
 ### 2. Entre no diretório do projeto
@@ -72,6 +72,6 @@ O projeto estará disponível em http://localhost:5173/.
 - Simulação de um banco de dados local usando o json-server.
 
 ### Utilização
-Cadastro: O usuário pode se registrar através da página de cadastro, que adiciona o novo usuário ao db.json.
-Login: O usuário pode fazer login com as credenciais que foram registradas.
-Autenticação: O estado de autenticação é mantido com o AuthContext e as rotas protegidas podem ser implementadas para usuários logados.
+- Cadastro: O usuário pode se registrar através da página de cadastro, que adiciona o novo usuário ao db.json.
+- Login: O usuário pode fazer login com as credenciais que foram registradas.
+- Autenticação: O estado de autenticação é mantido com o AuthContext e as rotas protegidas podem ser implementadas para usuários logados.
